@@ -31,7 +31,7 @@ Here are some of my featured projects:
 - 🛒 **Amazon Clone** – Responsive e-commerce front-end clone.  
 - 🎮 **Tic Tac Toe** – Interactive game with dynamic logic.  
 - 📺 **Nimbus Cast** – Streaming platform UI design.  
-- 🔒 **ZyroGuard** – Cybersecurity-themed web project.  
+- 🔒 **ZyroGuard** – Cybersecurity-themed web project (static page).  
 - 🌐 **Portfolio Website** – Personal portfolio showcasing my work and journey.  
 
 Each project is built with **HTML, CSS, and JavaScript**, focusing on **clean design** and **user interaction**.
@@ -39,7 +39,7 @@ Each project is built with **HTML, CSS, and JavaScript**, focusing on **clean de
 ---
 
 ## 📊 Problem Solving
-- Solved **25+ problems on LeetCode** covering **arrays, strings, recursion, and dynamic programming basics**.  
+- Solved **100+ problems on LeetCode** covering **arrays, strings, recursion, and dynamic programming basics**.  
 - Regular practice of **data structures and algorithms** to strengthen problem-solving mindset.  
 
 ---
@@ -50,7 +50,7 @@ To leverage my frontend development skills and problem-solving mindset in buildi
 ---
 
 ## 📫 Contact
-- **Email:** your.email@example.com  
+- **Email:** dwivedihani900@example.com  
 - **LinkedIn:** [Your LinkedIn Profile](#)  
 - **GitHub:** [Your GitHub Profile](#)
 
