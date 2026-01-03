@@ -10,7 +10,7 @@ Hi, I'm **Hani Dwivedi**, an aspiring **Frontend Developer** passionate about bu
 I have hands-on experience in **HTML, CSS, and JavaScript**, along with strong **problem-solving skills** demonstrated through coding challenges and personal projects.
 
 - 🌱 Currently enhancing my frontend skills and exploring full-stack development.  
-- 💻 Solved **25+ problems on LeetCode**.  
+- 💻 Solved **100+ problems on LeetCode**.  
 - 🛠️ Built **5+ frontend projects** including real-world clones and interactive games.  
 - 🎯 Career Goal: To contribute to impactful digital solutions and grow as a software engineer.  
 
